@@ -1,3 +1,5 @@
 function getFirstValue(arr) {
-	return (arr[2]);
+	return (arr[0]);
 }
+
+console.log(getFirstValue('My SQL'));	
